@@ -1,2 +1,7 @@
 # openapi-juice-shop
-REST API definition in OpenAPI of OWASP Juice Shop
+Not official REST API definition in OpenAPI of OWASP Juice Shop
+
+
+# Respository Structure
+
+The repository structure was inspired by the structure utilized in https://github.com/APIs-guru/openapi-directory.
